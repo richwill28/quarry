@@ -1,0 +1,9 @@
+[package]
+name = "quarry"
+version = "0.1.0"
+edition = "2024"
+description = "Quarry is a Rust library that lets you mine detailed information about public types from the Rust standard library."
+license = "MIT"
+repository = "https://github.com/richwill28/quarry"
+
+[dependencies]
